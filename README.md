@@ -53,4 +53,4 @@ Welcome to **Gadget Heaven**, a modern and sleek gadget e-commerce platform buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahdi33-gk/gadget-heaven.git
+   git clone https://github.com/mehediScriptDev/gadget-heaven.git
